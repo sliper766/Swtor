@@ -208,4 +208,4 @@ This repository serves as the official landing page for SWTOR. The software is d
 **Get the most recent version of SWTOR today!**
 
 ---
-**Last updated:** 2026-11-10 17:29:46 UTC
+**Last updated:** 2026-11-10 22:51:31 UTC
